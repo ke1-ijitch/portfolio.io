@@ -1218,7 +1218,7 @@
 }
 
 .c-container{
-    z-index: 9999;
+    z-index: 9000;
     position: absolute;
     top: 35%;
     right: 2%;
