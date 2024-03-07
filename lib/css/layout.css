@@ -1220,7 +1220,7 @@
 .c-container{
     z-index: 9000;
     position: absolute;
-    top: 35%;
+    top: 30%;
     right: 2%;
 }
 
@@ -1237,7 +1237,7 @@
 .b-t{
     border-top: #ffffff 1px solid;
     position: absolute;
-    width: 445px;
+    width: 444px;
     margin: auto;
     top: 20px;
     left: 38px;
@@ -1246,7 +1246,7 @@
 .b-l{
     border-left: #ffffff 1px solid;
     position: absolute;
-    height: 126px;
+    height: 158px;
     left: 43px;
     top: 15px;
 }
@@ -1254,14 +1254,14 @@
 .b-r{
     border-left: #ffffff 1px solid;
     position: absolute;
-    height: 126px;
+    height: 158px;
     right: 43px;
     top: 15px;
 }
 .b-b{
     border-top: #ffffff 1px solid;
     position: absolute;
-    width: 445px;
+    width: 444px;
     margin: auto;
     bottom: 20px;
     left: 38px;
