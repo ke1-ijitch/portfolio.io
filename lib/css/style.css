@@ -262,5 +262,18 @@ span, p{
 }
 
 #notab{
-  width: 300px;
+  width: 250px;
+}
+
+.works-title{
+  font-size: 40px;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+
+#works-title{
+  position: absolute;
+  font-size: 50px;
+  color: #ffffff;
+  left: 145px;
 }
