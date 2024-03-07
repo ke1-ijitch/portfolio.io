@@ -12,7 +12,10 @@
     font-weight: normal;
 }
 
-a{
+#none{
+    text-decoration: none;
+}
+#ub{
     color: #ffffff;
     border-bottom: #ffffff solid 1px;
 }
