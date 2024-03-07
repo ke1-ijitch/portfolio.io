@@ -1126,13 +1126,12 @@
 .doc-container{
     display: flex;
     justify-content: center;
-    vertical-align: bottom;
     align-items: center;
     gap: 60px;
     width: 1000px;
     height: 560.55px;
     position: absolute;
-    top: 4px;
+    top: 2px;
     left: 0;
 }
 
