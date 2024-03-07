@@ -13,7 +13,8 @@
 }
 
 a{
-    text-decoration: none;
+    color: #ffffff;
+    border-bottom: #ffffff solid 1px;
 }
 
 ::-webkit-scrollbar{
