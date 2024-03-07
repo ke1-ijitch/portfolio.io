@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 @font-face{
-    font-family: crayon;
-    src: url('../chicrayon/chicrayon/ちはやクレヨン.ttf') format('truetype');
+    font-family: memo;
+    src: url('../shigoto3/shigoto3/ShigotoMemogaki-Regular-1-02.ttf') format('truetype');
 }
 
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'memo', serif;
     font-weight: normal;
 }
 
@@ -104,7 +104,7 @@ svg{
     display: inline-block;
     position: relative;
     z-index: 9999;
-    font-size: 20px;
+    font-size: 30px;
   }
 
     .loading span:not(.l1){
@@ -147,11 +147,14 @@ svg{
     }
 
   .l1{
-    animation: l-1 2.5s linear ;
+    opacity: 0;
+    animation: l-1 2s linear forwards;
+    animation-delay: 0.5s;
   }
 
   @keyframes l-1 {
     0%{
+        opacity: 1;
         transform: rotate(25deg);
         left: 120px;
     }
@@ -215,5 +218,6 @@ svg{
     }
     100%{
         transform: rotate(0);
+        opacity: 1;
     }
   }
