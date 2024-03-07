@@ -135,7 +135,7 @@ span, p{
  .text span:nth-child(121){ animation-delay:6s; }
  .text span:nth-child(122){ animation-delay:6.05s; }
  .text span:nth-child(123){ animation-delay:6.1s; }
- /* .text span:nth-child(124){ animation-delay:6.15s; }
+ .text span:nth-child(124){ animation-delay:6.15s; }
  .text span:nth-child(125){ animation-delay:6.2s; }
  .text span:nth-child(126){ animation-delay:6.25s; }
  .text span:nth-child(127){ animation-delay:6.3s; }
@@ -176,7 +176,7 @@ span, p{
  .text span:nth-child(162){ animation-delay:8.05s; }
  .text span:nth-child(163){ animation-delay:8.1s; }
  .text span:nth-child(164){ animation-delay:8.15s; }
- .text span:nth-child(165){ animation-delay:8.2s; }  */
+ .text span:nth-child(165){ animation-delay:8.2s; } 
   
  @keyframes pop {
     0%{
